@@ -12,8 +12,11 @@ Please send all questions, comments, and corrections to dan.mcarthur91@gmail.com
 Stata code is provided to reproduce all results presented in the main paper and supplementary material.
 
 The paper uses data from the following sources:
+
 BRITISH SOCIAL ATTITUDES SURVEY: 1987 to 2018 https://www.bsa.natcen.ac.uk/
+
 LABOUR FORCE SURVEY: 1984 to 1991 https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance
+
 QUARTERLY LABOUR FORCE SURVEY: 1992 to 2019
 
 All raw data are available from the UK Data Service https://ukdataservice.ac.uk/ on registration.
